@@ -1,0 +1,29 @@
+p {
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+}
+
+h1 {
+	font-family: 5.0em;
+}
+
+
+body {
+	font-size: 10px;
+}
+
+span {
+	font-size: 2.0em; /* double font size*/
+}
+	
+p {
+	line-height: 2;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-decoration: underline;
+}

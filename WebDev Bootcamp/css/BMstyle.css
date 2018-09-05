@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+p {
+	width: 50%;
+	
+	border: 2px solid blue;
+
+	
+	padding: 10px;
+	padding-left: 40px;
+	
+	margin: 100px;
+	
+}
